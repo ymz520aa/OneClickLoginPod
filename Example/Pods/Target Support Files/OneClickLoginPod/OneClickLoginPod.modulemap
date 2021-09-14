@@ -1,0 +1,6 @@
+framework module OneClickLoginPod {
+  umbrella header "OneClickLoginPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

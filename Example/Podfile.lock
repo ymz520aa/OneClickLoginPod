@@ -1,0 +1,16 @@
+PODS:
+  - OneClickLoginPod (0.1.0)
+
+DEPENDENCIES:
+  - OneClickLoginPod (from `../`)
+
+EXTERNAL SOURCES:
+  OneClickLoginPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OneClickLoginPod: 56c4e0688257d1e7d5c2d27aac0ef358c68e9cc1
+
+PODFILE CHECKSUM: ea00251183f2f7e87ab11edb6ef0864a188a6756
+
+COCOAPODS: 1.10.1
